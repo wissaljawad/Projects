@@ -1,6 +1,5 @@
 # MIT
-**Projects From MIT Professional Certificate Program
-**
+**Projects From MIT Professional Certificate Program**
 
 **Project:** Analyzing Diabetes in the Pima Indians Tribe.
 
