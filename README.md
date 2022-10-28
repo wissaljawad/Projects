@@ -1,6 +1,7 @@
 # MIT
 **Projects From MIT Professional Certificate Program
 **
+
 **Project:** Analyzing Diabetes in the Pima Indians Tribe.
 
 **Project:** Amazon Product Recommendation System
