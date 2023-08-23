@@ -1,0 +1,16 @@
+The chatbot was built with the purpose of addressing philosophical topics inspired by Stoic philosophy. 
+It is based on the BERT model, fine-tuned using the SQuAD2.0 dataset. 
+The roBERTa-base model is a pre-trained language model that excels in natural language understanding tasks. 
+It has been trained on question-answer pairs I assembled, including unanswerable questions, specifically for the task of Question Answering.
+The chatbot has been trained on a particular collection of philosophical issues and answers that I made, making it a closed-domain model. 
+It employs a predefined set of questions and answers to produce responses. 
+The Hugging Face Transformers library is one of the tools and libraries used for this chatbot.
+The pre-trained Roberta-base model and tokenizer are loaded using the AutoModelForQuestionAnswering and AutoTokenizer modules. 
+The 'pipeline' function is used to build a question-answering pipeline for generating answers.
+
+Instructions:
+To run the script, make sure you have the `transformers` library (pip install transformers) installed. 
+You can then simply upload the code into a Python script or notebook and run it. 
+The “chatbot” will prompt you to enter a question about life, and it will provide an answer based on the context of the `QA_input` list.
+Example questions are "How can one find meaning in life?" or "Can we control our emotions?". 
+These are just a few examples, feel free to be creative with your questions.
