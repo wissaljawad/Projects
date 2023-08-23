@@ -1,5 +1,5 @@
 # Projects
-**Project:** Philosophy Chatbot
+**Project:** Philosophy Chatbot (read instructions)
 
 **Project:** Analyzing Diabetes in the Pima Indians Tribe.
 
