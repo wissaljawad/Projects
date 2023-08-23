@@ -1,5 +1,6 @@
 # Projects
 **Project:** Philosophy Chatbot
+
 **Project:** Analyzing Diabetes in the Pima Indians Tribe.
 
 **Project:** Amazon Product Recommendation System
