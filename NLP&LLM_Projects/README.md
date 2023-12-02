@@ -1,6 +1,6 @@
 # GenAI & LLM: 
 
-## Project 1: Machine Translation with LSTM [https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Language_Translation_LSTM.ipynb]
+## [Project 1: Machine Translation with LSTM](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Language_Translation_LSTM.ipynb)
 ### Context
 Machine translation (MT) involves translating text between languages using computational and linguistic knowledge. Neural Machine Translation (NMT) is a modern approach using deep neural networks, with encoder and decoder networks typically built using recurrent neural networks (RNN), long short-term memory (LSTM), or other alternatives. This case study employs a simple RNN model with LSTM nodes for translation tasks.
 
