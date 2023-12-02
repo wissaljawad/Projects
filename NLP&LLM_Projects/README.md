@@ -16,6 +16,6 @@ StoicBot, a chatbot inspired by Stoic philosophy, is built on the BERT model, fi
 ### Context
 Text data poses challenges with special characters and word inflections. This Jupyter notebook addresses text preprocessing using NLTK and spaCy. Key steps include stopword removal, tokenization, stemming/lemmatization, part-of-speech tagging, collocation identification, and named entity recognition.
 
-## Project 5: NLP Mid-term Project - Support Ticket Categorization
+## Project 5: Support Ticket Categorization
 ### Context
 In the business landscape, customer feedback is crucial. This project focuses on automated Support Ticket Categorization, leveraging Large Language Models and Generative AI. The objective is to develop an application that predicts ticket categories, assigns priority, suggests resolution times, performs sentiment analysis, and stores results in a structured DataFrame.
