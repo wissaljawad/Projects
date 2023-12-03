@@ -1,4 +1,6 @@
-Welcome to my GitHub repository! Featuring projects in Generative AI and Large Language Models (GenAI & LLM) as well as Recommendation Systems.  I've worked on a variety of projects that showcase my knowledge in machine translation, sentiment analysis, chatbot development, text preprocessing, and recommendation systems. Explore the projects listed below for examples of my proficiency in natural language processing and collaborative filtering.
+*Welcome to my GitHub repository!*
+
+*Featuring projects in Generative AI and Large Language Models (GenAI & LLM) as well as Recommendation Systems.  I've worked on a variety of projects that showcase my knowledge in machine translation, sentiment analysis, chatbot development, text preprocessing, and recommendation systems. Explore the projects listed below for examples of my proficiency in natural language processing and collaborative filtering.*
 
 # Table of Contents:
 ### 1. [Generative AI & Large Language Models (GenAI & LLM)](https://github.com/wissaljawad/Projects/blob/main/README.md#genai--llm)
