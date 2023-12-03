@@ -12,7 +12,7 @@ Welcome! I am a dedicated professional with a master's degree specializing in Ma
 
 As an AWS Certified Cloud Practitioner, I love to stay at the forefront of technology. Proficient in Python, SQL, R, and SAS, I thrive on continuous learning. My relentless curiosity and passion for acquiring new skills drive me to explore innovative solutions.
 
-Feel free to reach out for a discussion or connection on [LinkedIn](https://www.linkedin.com/in/wissaljawad/) Looking forward to our conversation!
+Feel free to reach out for a discussion or connection on [LinkedIn](https://www.linkedin.com/in/wissaljawad/). Looking forward to our conversation!
 
 # GenAI & LLM: 
 
