@@ -21,13 +21,14 @@ Text data poses challenges with special characters and word inflections. This Ju
 In the business landscape, customer feedback is crucial. This project focuses on automated Support Ticket Categorization, leveraging Large Language Models and Generative AI. The objective is to develop an application that predicts ticket categories, assigns priority, suggests resolution times, performs sentiment analysis, and stores results in a structured DataFrame.
 
 
-# Projects
-**Project:** Philosophy Chatbot (read instructions)
+# Recommendation Systems:
 
-**Project:** Analyzing Diabetes in the Pima Indians Tribe.
+## Project 1: Amazon Product Recommendation System
+### Context:
+E-commerce platforms like Amazon use recommendation models for personalized suggestions. This project focuses on building a recommendation system using the Amazon product reviews dataset, employing item-to-item collaborative filtering.
 
-**Project:** Amazon Product Recommendation System
-
-**Project:** Music Recommendation System.
+## Project 2: Music Recommendation System
+### Context:
+Utilizing the Million Song Dataset, this project involves creating a music recommendation system based on user play counts. The core data includes details about songs, releases, artists, and user play counts.
 
 **Hackathon Project:** Shinkansen Bullet Train - Predict Passenger Satisfaction (95.1% accuracy) (Collaborative Project of 3 people)
