@@ -4,7 +4,7 @@
 ### 1. [Generative AI & Large Language Models (GenAI & LLM)](https://github.com/wissaljawad/Projects/blob/main/README.md#genai--llm)
 ### 2. [Recommendation Systems](https://github.com/wissaljawad/Projects/blob/main/README.md#recommendation-systems)
 
-## About Me:
+# About Me:
 
 Welcome to my GitHub portfolio! I am a dedicated professional with a master's degree specializing in Machine Learning and Artificial Intelligence, particularly focusing on Natural Language Processing (NLP). My journey in the professional realm spans diverse roles in business, data science, and data engineering.
 
