@@ -1,4 +1,5 @@
 *Welcome to my GitHub portfolio!*
+
 *Featured projects in Generative AI and Large Language Models (GenAI & LLM) as well as Recommendation Systems.  I've worked on a variety of projects that showcase my knowledge in machine translation, sentiment analysis, chatbot development, text preprocessing, and recommendation systems. Explore the projects listed below for examples of my proficiency in natural language processing and collaborative filtering.*
 
 # Table of Contents:
