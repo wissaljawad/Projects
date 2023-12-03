@@ -38,4 +38,5 @@ E-commerce platforms like Amazon use recommendation models for personalized sugg
 ### Context:
 Utilizing the Million Song Dataset, this project involves creating a music recommendation system based on user play counts. The core data includes details about songs, releases, artists, and user play counts.
 
+# Other
 ## [**Hackathon Project:** Shinkansen Bullet Train - Predict Passenger Satisfaction (95.1% accuracy) (Collaborative Project of 3 people)](https://github.com/wissaljawad/Projects/blob/main/Recommendation_Systems/Shinkansen-Hackathon%20Stacking%20Final.ipynb)
