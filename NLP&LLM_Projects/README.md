@@ -19,11 +19,11 @@ The goal of this project is to demonstrate the effectiveness of Large Language M
 
 ## [Project 4: Machine Translation with LSTM](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Language_Translation_LSTM.ipynb)
 ### Context
-Machine translation (MT) involves translating text between languages using computational and linguistic knowledge. Neural Machine Translation (NMT) is a modern approach using deep neural networks, with encoder and decoder networks typically built using recurrent neural networks (RNN), long short-term memory (LSTM), or other alternatives. This case study employs a simple RNN model with LSTM nodes for translation tasks.
+Machine translation (MT) involves translating text between languages using computational and linguistic knowledge. Neural Machine Translation (NMT) is a modern approach using deep neural networks, with encoder and decoder networks typically built using recurrent neural networks (RNN), long short-term memory (LSTM), or other alternatives. *This case study employs a simple RNN model with LSTM nodes for translation tasks.*
 
 ## [Project 5: Sentiment Analysis on IMDB Movie Reviews](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Movie_Reviews_Sentiment_Analysis.ipynb)
 ### Context
-Movie reviews influence decisions on whether to watch a film. Sentiment analysis, a Natural Language Processing technique, automates determining the positivity or negativity of reviews. This project aims to analyze 10,000 IMDB movie reviews using supervised and unsupervised learning methods, comparing techniques like Bag of Words, TF-IDF, TextBlob, and VADER Sentiment.
+Movie reviews influence decisions on whether to watch a film. Sentiment analysis, a Natural Language Processing technique, automates determining the positivity or negativity of reviews. This project aims to analyze 10,000 IMDB movie reviews using supervised and unsupervised learning methods, *comparing techniques like Bag of Words, TF-IDF, TextBlob, and VADER Sentiment.*
 
 
 
