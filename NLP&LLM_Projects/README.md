@@ -1,9 +1,9 @@
 # GenAI & LLM: 
-1. Support Ticket Categorization 
-2. Text Preprocessing
-3. Large Language Model Demonstration
-4. Machine Translation with LSTM
-5. Sentiment Analysis on IMDB Movie Reviews
+1. [Support Ticket Categorization](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-1-support-ticket-categorization)
+2. [Text Preprocessing](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-2-text-preprocessing)
+3. [Large Language Model Demonstration](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-3-large-language-model-demonstration)
+4. [Machine Translation with LSTM](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-4-machine-translation-with-lstm)
+5. [Sentiment Analysis on IMDB Movie Reviews](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-5-sentiment-analysis-on-imdb-movie-reviews)
    
 ## [Project 1: Support Ticket Categorization](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Ticketing_%20Automation.ipynb)
 ### Context
