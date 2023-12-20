@@ -10,7 +10,7 @@ Text data poses challenges with special characters and word inflections. This Ju
 
 ## [Project 3: Large Language Model Demonstration](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LLM_Demo.ipynb)
 ### Context
-The goal of this project is to demonstrate the effectiveness of Large Language Models, specifically Transformer-based structures, in addressing important Natural Language Processing (NLP) difficulties. Hugging Face is the fundamental toolbox through this excersize *Text Completion, Text Classification, Question-Answering, Text Summarization, Named Entity Recognition (NER), Language Translation, and Text Generation.**
+The goal of this project is to demonstrate the effectiveness of Large Language Models, specifically Transformer-based structures, in addressing important Natural Language Processing (NLP) difficulties. Hugging Face is the fundamental toolbox through this exercise for *Text Completion, Text Classification, Question-Answering, Text Summarization, Named Entity Recognition (NER), Language Translation, and Text Generation.**
 
 ## [Project 4: Machine Translation with LSTM](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Language_Translation_LSTM.ipynb)
 ### Context
