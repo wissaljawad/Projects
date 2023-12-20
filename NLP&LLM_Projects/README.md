@@ -16,7 +16,7 @@ Movie reviews influence decisions on whether to watch a film. Sentiment analysis
 ### Context
 Text data poses challenges with special characters and word inflections. This Jupyter notebook addresses text preprocessing using NLTK and spaCy. Key steps include stopword removal, tokenization, stemming/lemmatization, part-of-speech tagging, collocation identification, and named entity recognition.
 
-## [Project 5: Philosophy Chatbot](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LLM_Demo.ipynb)
+## [Project 5: Large Language Model Demonstration](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LLM_Demo.ipynb)
 ### Context
-StoicBot, a chatbot inspired by Stoic philosophy, is built on the BERT model, fine-tuned using the SQuAD2.0 dataset. Trained on a set of 35 questions and answers, it operates in a closed-domain, generating responses based on compiled content. Utilizing the Hugging Face Transformers library, the chatbot prompts users to ask life-related questions, providing answers from the QA_input list.
+The goal of this project is to demonstrate the effectiveness of Large Language Models, specifically Transformer-based structures, in addressing important Natural Language Processing (NLP) difficulties. Hugging Face is the fundamental toolbox that guides us through Text Completion, Text Classification, Question-Answering, Text Summarization, Named Entity Recognition (NER), Language Translation, and Text Generation.
 
