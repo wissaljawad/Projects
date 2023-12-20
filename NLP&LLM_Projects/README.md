@@ -4,7 +4,7 @@
 3. [Large Language Model Demonstration](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-3-large-language-model-demonstration)
 4. [Machine Translation with LSTM](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-4-machine-translation-with-lstm)
 5. [Sentiment Analysis on IMDB Movie Reviews](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-5-sentiment-analysis-on-imdb-movie-reviews)
-6. [RASA Q&A](https://github.com/wissaljawad/Projects/blob/main/NLP&LLM_Projects/README.md#project-5-rasa-qa)
+6. [RASA Q&A](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-6-rasa-qa)
    
 ## [Project 1: Support Ticket Categorization](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Ticketing_%20Automation.ipynb)
 ### Context
