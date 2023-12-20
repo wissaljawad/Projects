@@ -1,10 +1,10 @@
 # GenAI & LLM: 
-1. Support Ticket Categorization
+1. Support Ticket Categorization 
 2. Text Preprocessing
 3. Large Language Model Demonstration
 4. Machine Translation with LSTM
 5. Sentiment Analysis on IMDB Movie Reviews
-6. 
+   
 ## [Project 1: Support Ticket Categorization](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Ticketing_%20Automation.ipynb)
 ### Context
 In the business landscape, customer feedback is crucial. This project focuses on automated Support Ticket Categorization, leveraging Large Language Models and Generative AI. The objective is to develop an application that predicts ticket categories, assigns priority, suggests resolution times, performs sentiment analysis, and stores results in a structured DataFrame.
