@@ -6,7 +6,7 @@ In the business landscape, customer feedback is crucial. This project focuses on
 
 ## [Project 2: Text Preprocessing](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/TextPreprocessing.ipynb)
 ### Context
-Text data poses challenges with special characters and word inflections. This Jupyter notebook addresses text preprocessing using NLTK and spaCy. Key steps include stopword removal, tokenization, stemming/lemmatization, part-of-speech tagging, collocation identification, and named entity recognition.
+Text data poses challenges with special characters and word inflections. This Jupyter notebook addresses text preprocessing using *NLTK and spaCy*. Key steps include stopword removal, tokenization, stemming/lemmatization, part-of-speech tagging, collocation identification, and named entity recognition.
 
 ## [Project 3: Large Language Model Demonstration](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LLM_Demo.ipynb)
 ### Context
