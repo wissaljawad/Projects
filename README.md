@@ -36,9 +36,9 @@ Machine translation (MT) involves translating text between languages using compu
 ### Context
 Sentiment analysis, a Natural Language Processing technique, automates determining the positivity or negativity of reviews. This project aims to analyze 10,000 IMDB movie reviews using supervised and unsupervised learning methods, *comparing techniques like Bag of Words, TF-IDF, TextBlob, and VADER Sentiment.*
 
-## [Project 6: RASA Q&A](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Rasa_Q%26A.ipynb)
+## [Project 6: Pinecone Q&A](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Pinecone_Q%26A.ipynb)
 ### Context
-Abstractive question-answering focuses on the generation of multi-sentence answers to open-ended questions. It usually works by searching massive document stores for relevant information and then using this information to synthetically generate answers. This notebook demonstrates the RASA framework and how Pinecone helps build an abstractive question-answering system. 
+Abstractive question-answering focuses on the generation of multi-sentence answers to open-ended questions. It usually works by searching massive document stores for relevant information and then using this information to synthetically generate answers. This notebook demonstrates how Pinecone helps build an abstractive question-answering system. 
 
 # Recommendation Systems:
 
