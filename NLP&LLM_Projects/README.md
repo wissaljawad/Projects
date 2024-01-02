@@ -7,7 +7,7 @@
 6. [Sentiment Analysis on IMDB Movie Reviews](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-6-sentiment-analysis-on-imdb-movie-reviews)
 7. [Pinecone Q&A](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-7-pinecone-qa)
    
-## [Project 1: LangChain Data Science Assistant]()
+## [Project 1: LangChain Data Science Assistant](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LangChain_Data_Science_Assistant.ipynb)
 ### Context
 The project aims to leverage Large Language Models (LLMs) within the LangChain framework to build a Data Science Assistant and make Data Analysis and Science more accessible to a broader audience. This assistant will automate tasks such as Data Analysis, Data Science & Machine Learning Modeling, Relational Database Querying, and Retrieval-Augmented Generation (RAG) for Contextual Answers. 
 
