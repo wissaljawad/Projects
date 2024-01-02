@@ -16,7 +16,7 @@ Feel free to reach out for a discussion or connection on [LinkedIn](https://www.
 
 ## [Project 1: LangChain Data Science Assistant](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/LangChain_Data_Science_Assistant.ipynb)
 ### Context
-The project aims to leverage Large Language Models (LLMs) within the LangChain framework to build a Data Science Assistant and make Data Analysis and Science more accessible to a broader audience. This assistant will automate tasks such as Data Analysis, Data Science & Machine Learning Modeling, Relational Database Querying, and Retrieval-Augmented Generation (RAG) for Contextual Answers. 
+The project aims to leverage Large Language Models (LLMs) within the LangChain framework to build a Data Science Assistant and make Data Analysis and Science more accessible to a broader audience. This assistant will automate tasks such as *Data Analysis, Data Science & Machine Learning Modeling, Relational Database Querying, and Retrieval-Augmented Generation (RAG) for Contextual Answers*. 
 
 ## [Project 2: Support Ticket Categorization](https://github.com/wissaljawad/Projects/blob/main/NLP%26LLM_Projects/Ticketing_%20Automation.ipynb)
 ### Context
