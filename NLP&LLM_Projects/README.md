@@ -1,5 +1,5 @@
 # GenAI & LLM: 
-1. [LangChain Data Science Assistant]()
+1. [LangChain Data Science Assistant](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-1-langchain-data-science-assistant)
 2. [Support Ticket Categorization](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-2-support-ticket-categorization)
 3. [Text Preprocessing](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-3-text-preprocessing)
 4. [Large Language Model Demonstration](https://github.com/wissaljawad/Projects/tree/main/NLP%26LLM_Projects#project-4-large-language-model-demonstration)
